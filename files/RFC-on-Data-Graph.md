@@ -20,7 +20,13 @@ output: pdf_document
 
 ## Approach
 
+### Bright Graph, Dark Graph
 
+### Incrementality 
+
+### No objects, just histories
+
+## Implementation
 
 ## Question and Answers 
 
