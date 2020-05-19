@@ -1,5 +1,5 @@
 ---
-title: 'RFC on Universal Representation Engine'
+title: 'RFC on Autonomous Digitisation'
 subtitle: 'No number'
 author:
 - Fréderic Kaplan
@@ -12,15 +12,15 @@ header-includes:
 output: pdf_document
 ---
 
-# Note on Universal Representation Engine
+# Note on Autonomous Digitisation
 
 ## Motivation
 
 
 
-## Approach
+## Case Studies
 
-### Latent Space
+### ScanTent
 
 ## Implementation
 
