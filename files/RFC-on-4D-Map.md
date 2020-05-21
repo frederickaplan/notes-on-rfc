@@ -21,6 +21,8 @@ output: pdf_document
 
 ## Approach
 
+## Client-server approach
+
 
 
 ## Question and Answers 

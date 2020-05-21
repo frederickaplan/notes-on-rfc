@@ -26,6 +26,8 @@ output: pdf_document
 
 ### No objects, just histories
 
+### The Open Refine Philosophy
+
 ## Implementation
 
 ## Question and Answers 
