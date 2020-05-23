@@ -21,6 +21,16 @@ output: pdf_document
 
 ## Approach
 
+Concepts
+
+## Concepts
+
+### Critical Zone
+
+Epiderm of the Earth : +/- 10 km 
+
+
+
 ## Client-server approach
 
 
