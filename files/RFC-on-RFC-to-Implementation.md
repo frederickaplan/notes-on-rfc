@@ -2,8 +2,7 @@
 title: 'RFC on RFC to Implemention'
 subtitle: 'No number'
 author:
-- Nils Hamel
-- Fréderic Kaplan
+ - TBD
 
 # Don't change the following lines
 header-includes:
