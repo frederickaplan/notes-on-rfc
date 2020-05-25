@@ -16,7 +16,7 @@ output: pdf_document
 
 ## Motivation
 
-
+As simple as possible. As complex as necessary. 
 
 ## Approach
 
@@ -52,23 +52,43 @@ Indicative schedule of overlapping period of the ingestion of structured documen
 
 ### Famous Subgraphs
 
+- Segments on the Hyperimage
+- 
 - Hyperdirectory
 - Hypercadaster
 
 
 
-## Implementation
+## Structure of the Graph
 
-### The document Segment
+### IIIF Document
+
+### Image
+
+### Points 
+
+Include the notion of homologous point
+
+### Segment
 
 Includes 
+
+- Geometry
 
 - Automatic Transcriptions
 - Manual transcriptions
 - Most-likely transcription
-- etc. 
+- Wikidata
 
+Node
 
+## Graph Editor
+
+### Segment Editor
+
+### Geographical Editor
+
+### Node Editor
 
 
 
