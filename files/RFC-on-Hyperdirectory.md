@@ -1,5 +1,5 @@
 ---
-title: 'RFC on General Directory'
+title: 'RFC on Hyperdirectory'
 subtitle: 'No number'
 author:
 - Fréderic Kaplan
@@ -12,11 +12,11 @@ header-includes:
 output: pdf_document
 ---
 
-# Notes on the General Directory
+# Notes on the Hyperdirectory
 
 ## Motivation
 
-
+The Hyperdictory contains all the directories of the world 
 
 ## Structure
 
