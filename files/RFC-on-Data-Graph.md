@@ -20,6 +20,12 @@ output: pdf_document
 
 ## Approach
 
+### One Graph End-to-End from Sources to Concepts
+
+Includes annotation of document
+
+Any conceputal change may have an effect on how we read/interpret a document 
+
 ### Bright Graph, Dark Graph
 
 ### Incrementality 
@@ -42,9 +48,25 @@ Indicative schedule of overlapping period of the ingestion of structured documen
 
 ### The Open Refine Philosophy
 
+### Global optimization of the Graph
+
+### Famous Subgraphs
+
+- Hyperdirectory
+- Hypercadaster
+
+
+
 ## Implementation
 
+### The document Segment
 
+Includes 
+
+- Automatic Transcriptions
+- Manual transcriptions
+- Most-likely transcription
+- etc. 
 
 
 
