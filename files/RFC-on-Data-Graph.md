@@ -87,6 +87,7 @@ Segments can be defined on images (Photograph, Maps) and on the **4D Map** (Parc
   - Manual transcriptions
   - Most-likely transcription
   - Wikidata
+  - Describe a subject, an object or a relation
 
 - Homolgous Segment can be created by different operations
 
