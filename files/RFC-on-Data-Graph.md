@@ -48,6 +48,10 @@ Indicative schedule of overlapping period of the ingestion of structured documen
 
 ### The Open Refine Philosophy
 
+### Learning from Excel
+
+Excell is still one of the most used tool. Why. 
+
 ### Global optimization of the Graph
 
 ### Famous Subgraphs
@@ -87,7 +91,8 @@ Segments can be defined on images (Photograph, Maps) and on the **4D Map** (Parc
   - Manual transcriptions
   - Most-likely transcription
   - Wikidata
-  - Describe a subject, an object or a relation
+  - Describe a subject/object or a relation
+  - Formula, how the segment is resulting from symbolic operation on other segment (cell)
 
 - Homolgous Segment can be created by different operations
 
