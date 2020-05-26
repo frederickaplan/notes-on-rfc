@@ -88,9 +88,15 @@ Segments can be defined on images (Photograph, Maps) and on the **4D Map** (Parc
   - Most-likely transcription
   - Wikidata
 
-
+- Homolgous Segment can be created by different operations
 
 To be defined : 3D Segment, 4D segment, Node (People, Place, Things), etc
+
+## Homologous Pairs
+
+Example when two points are moved on the **4D Map** they can be merged in the scanned image of the map. 
+
+
 
 ## Graph Editor
 
