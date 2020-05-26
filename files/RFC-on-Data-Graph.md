@@ -65,22 +65,32 @@ Indicative schedule of overlapping period of the ingestion of structured documen
 
 ### Image
 
-### Points 
+All following elements include an **History**
 
-Include the notion of homologous point
+### Point
 
-### Segment
+- Relative to an image
+- Can be linked to other points representing the same thing (homologous points) in another image or in the **4D Map** 
 
-Includes 
+### Polygon
 
-- Geometry
+- Made of points
+- Can be linked to other polygon representing the same thing (homologous polygon) in another image or in the **4D Map**
 
-- Automatic Transcriptions
-- Manual transcriptions
-- Most-likely transcription
-- Wikidata
+### Segment (2D)
 
-Node
+Segments can be defined on images (Photograph, Maps) and on the **4D Map** (Parcel, house)
+
+- Defined by **Polygon**
+- Include a limited set of universal  field 
+  - Automatic Transcriptions
+  - Manual transcriptions
+  - Most-likely transcription
+  - Wikidata
+
+
+
+To be defined : 3D Segment, 4D segment, Node (People, Place, Things), etc
 
 ## Graph Editor
 
