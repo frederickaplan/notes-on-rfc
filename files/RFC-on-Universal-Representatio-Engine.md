@@ -22,6 +22,16 @@ output: pdf_document
 
 ### Latent Space
 
+### Multimodal embeddings
+
+Law resource languages, word embedding, across multilingual, multimodal embeddings
+
+Ref. Learning cross modality https://arxiv.org/abs/1908.07490 
+
+### Generation
+
+of text and images 
+
 ## Implementation
 
 ## Question and Answers 
