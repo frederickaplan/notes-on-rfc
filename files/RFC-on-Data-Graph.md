@@ -20,6 +20,22 @@ As simple as possible. As complex as necessary.
 
 ## Approach
 
+Part taken from RFC5 : 
+
+The **4D Map** has a series of standard Layers that are fully defined in a dedicated RFC  (**Not currently planned in RFC2**)
+
+
+1. The **Municipalities** segmentation that defines the granularity of the **Local Time Machines**
+2. The **Points of View** Layer that corresponds to the perspectives of photographs or paintings. 
+3. The **Parcel Layer** :  2D polygon with temporal extension typically defined by an administrative source (e.g. Parcels of the Napoleonic Cadastter of 1808). Each parcel has a unique ID in the Time Machine system.
+4. The **Place names** Layer
+5. The **Spherical Image** Layer 
+6. The **Cloud Point** Layer
+7. The **4D Vectorial** Layer
+8. The **Homologous Point Network**, connecting images with one another through homogous point 
+
+
+
 ### One Graph End-to-End from Sources to Concepts
 
 Includes annotation of document

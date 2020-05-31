@@ -18,9 +18,9 @@ output: pdf_document
 
 
 
-Rules of for space before list
+### Markdown Rules
 
-
+- Lists need to have an empty line before them or the markdown renderer doesn't recognize them as lists:
 
 
 ## Question and Answers 
