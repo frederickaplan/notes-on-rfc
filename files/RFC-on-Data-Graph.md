@@ -36,11 +36,28 @@ The **4D Map** has a series of standard Layers that are fully defined in a dedic
 
 
 
+### The End-to-End principle
+
+ a “dumb” network with “smart” applications at the endpoint.
+
+- new innovative applications are developed for creating new types of content (one “end”) and for giving viewers access to the content (the other “end”), the intermediate routers and switches do not need to be updated. 
+- A good example is provided by streaming media which is a new type of content that required new types of applications but did not require any changes to the core routers and switches that support the internet. 
+-  “All of the intelligence is held by producers and users, not the networks that connect them": Lawrence Lessig and Robert W. McChesney argue that the end-to-end principle is what has made the Internet such a success. Lessig, Lawrence and Robert W. McChesney , “No Tolls on The Internet, Washington Post, June 8, 2006.
+
+### Avoiding premature standardization
+
+- think of standardization along a temporal spectrum
+- 
+
 ### One Graph End-to-End from Sources to Concepts
 
 Includes annotation of document
 
 Any conceputal change may have an effect on how we read/interpret a document 
+
+
+
+
 
 ### Bright Graph, Dark Graph
 
