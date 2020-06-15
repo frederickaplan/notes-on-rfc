@@ -57,6 +57,10 @@ Any conceputal change may have an effect on how we read/interpret a document
 
 
 
+### From pixels to concepts
+
+"What each pixel think of each pixels": The Data Graph should help self-attention mechanisms compute “what each pixel thinks of each other pixel
+
 
 
 ### Bright Graph, Dark Graph
