@@ -18,6 +18,8 @@ output: pdf_document
 
 The Hypercadaster contains all the cadasters of the world 
 
+The Hypercadastrer is a view / perspective on the Data Graph. 
+
 ## Structure
 
 Year, Name, Profession, Parcel Numer, Geometry, Georeferenced Geometry

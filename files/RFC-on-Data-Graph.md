@@ -104,14 +104,29 @@ Excell is still one of the most used tool. Why.
 
 ### IIIF Document
 
+- Manifest
+- Etc. 
+
 ### Image
 
 All following elements include an **History**
+
+- Rotation with another Image
+- Position on the surface of the Earth
+- Technical Metadata : Focal, etc. 
+
+
 
 ### Point
 
 - Relative to an image
 - Can be linked to other points representing the same thing (homologous points) in another image or in the **4D Map** 
+
+### 4D Point
+
+- Interstcion of the lines defined by homolougs points on images on a time slice
+- indexed in 4D server
+- 
 
 ### Polygon
 
