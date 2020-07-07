@@ -102,6 +102,8 @@ Excell is still one of the most used tool. Why.
 
 ## Structure of the Graph
 
+IIIF + CIDOC CRM + OSM + Photogrammetry
+
 ### IIIF Document
 
 - Manifest
@@ -145,8 +147,11 @@ Segments can be defined on images (Photograph, Maps) and on the **4D Map** (Parc
   - Wikidata
   - Describe a subject/object or a relation
   - Formula, how the segment is resulting from symbolic operation on other segment (cell)
-
 - Homolgous Segment can be created by different operations
+
+
+
+## OSM Structure 
 
 To be defined : 3D Segment, 4D segment, Node (People, Place, Things), etc
 
